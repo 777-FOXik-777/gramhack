@@ -6,7 +6,7 @@ gramhack - это инструмент который поможет вам ув
 
 + apt upgrade -y
 
-+ pkg install git -y
++ pkg install git
 
 + git clone https://github.com/777-FOXik-777/gramhack
 
